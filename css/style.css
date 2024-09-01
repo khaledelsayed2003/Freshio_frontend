@@ -1,0 +1,305 @@
+.div01{
+    background-color: rgb(23, 48, 23);
+    height: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    padding-left: 60px;
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.li01{
+padding-left: 5px;
+}
+
+
+.li02{
+    padding-left: 7px;
+}
+
+.txt01 a{
+    text-decoration: none;
+}
+.padd01{
+    padding-left: 15px;
+}
+.padd02 li{
+    padding-left: 18px;
+}
+
+.div02{
+    background-color:#61CE70;
+    height: 100px;
+    padding-top: 40px;
+}
+#logimg{
+    height: 100px;
+    width: 150px;
+    border-radius: 50px;
+    margin-top: -40px;
+    margin-left: 8px;
+   
+}
+
+.li03{
+    font-size: large;
+}
+
+.li03 span:hover{
+    
+    color: black;
+    text-decoration: overline;
+    font-size: 20px; 
+}
+
+.padd03{
+    padding-left: 40px;
+    
+}
+.padd03:hover{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px; 
+
+}
+.padd03 span:hover{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px; 
+
+}
+
+.padd03  a span:hover{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px; 
+
+}
+
+button span{
+    
+    background-color:rgb(46, 109, 61);
+    border-radius: 40px;
+}
+
+.h201{
+    color:gray;
+    padding-left: 27px;
+    margin-top: -38px;
+}
+
+.h201:hover{
+font-size: 35px;
+color: black;
+text-decoration: underline;
+}
+
+.div06{
+    margin-top: 60px;
+    
+    
+}
+
+.div07{
+    background-color:white; 
+    
+    height: 300px;
+    
+margin-left: 10px;
+
+}
+
+.div08{
+    margin-top: 10px;
+}
+
+
+.div05{
+    background-color:white; 
+height: 220px;
+margin-left: 0px;
+}
+
+.div010 a{
+text-decoration: none;
+
+}
+
+
+.div010{
+    text-align: center;
+}
+
+#HOV123:hover{
+    text-decoration: underline;
+    font-size: 20px;
+    color:green;
+}
+
+
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    bottom: 110px; 
+    right: 460px; 
+    transform: translate(-50%, -50%); 
+     
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;
+  }
+
+#a101{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border-radius: 200px;
+    
+    
+}
+#a101:hover{
+    background-color: chartreuse;
+    font-size: 22px;
+    color: black;
+}
+
+#a102{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border-radius: 200px;
+
+}
+
+#a102:hover{
+    background-color: chartreuse;
+    font-size: 22px;
+    color: black;
+}
+#over-text02{
+    position: absolute;
+    bottom: 40px; 
+    right: 390px; 
+    transform: translate(-50%, -50%); 
+     
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+.div09{
+    background-color:#61CE70;
+    height: 60px;
+}
+
+#cont01{
+    
+    color: white;
+    background-color:  rgb(12, 113, 66);
+}
+#cont02{
+    color: white;
+    background-color:  rgb(12, 113, 66);
+   
+}
+
+#afooter01{
+    text-decoration: none;
+    color: black;
+    font-size: large
+    
+}
+#afooter02{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+
+}
+
+.top01{
+    padding-top: 15px;
+}
+
+#afooter01:hover{
+    text-decoration: none;
+    color:red;
+    font-size: 25px;
+}
+
+#afooter02:hover{
+    text-decoration: none;
+    color:red;
+    font-size: 27px;
+}
+
+.div011{
+    background-color:  rgb(23, 48, 23);
+    height: 290px;
+
+    
+}
+
+.info123{
+    font-size: 23px;
+    color: white;
+}
+
+ li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+li a:hover{
+    text-decoration: overline;
+    color: red;
+    font-size: 20px;
+    
+}
+
+.float560{
+    float:none;
+}
+
+.padd0300{
+    padding-top: 60px;
+    padding-left: 120px;
+}
+
+.spinner01{
+    margin-left: 50%;
+  
+    
+}
+
+#search02{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#search02:hover{
+    font-size: 18px;
+    color: black;
+    background-color: #61CE70;
+    
+    
+}
